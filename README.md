@@ -141,4 +141,9 @@ public class HomeController {
 ### application.properties:
  server.port=8081
 
+## Output
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/b0a77670-bf4c-485a-bf9a-d4aee390fb59" />
+
+## Result:
+ Thus, the experiment was successfully executed and the expected output was obtained.
 
